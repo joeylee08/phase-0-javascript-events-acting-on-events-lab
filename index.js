@@ -29,3 +29,8 @@ document.addEventListener("keydown", (e) => {
     moveDodgerRight();
   }
 })
+
+function sayHello() {
+  console.log("HELLOOOO!")
+}
+//HELLO WORLD! WAHOO!
